@@ -7,3 +7,5 @@ commit 3 rama master y merge a rama desarollador
 commit 4 rama desarrollador
 
 commit 5 rama desarrollador
+
+commit 6 rama master, luego del merge
